@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact"
+		},
+		"liveServer.settings.port": 5501,
+		"emmet.preferences": {},
+		"emmet.syntaxProfiles": {}
+	}
+}
